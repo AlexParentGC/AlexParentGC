@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexParentGC
-- 👀 I’m interested in SCIENCE, SCIENCE, SCIENCE!
+- 👀 I’m interested in SCIENCE, COMPUTERS AND CONSTRUCTION!
 - 🌱 I’m currently learning Computer Science (CS50)
 - 💞️ I’m currently teaching Civil Engineering
 - 📫 alexandre.parent@collegeahuntsic.qc.ca
